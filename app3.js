@@ -20,7 +20,7 @@
 // console.log(now.toLocaleTimeString());
 
 // =======
-
+// пвдлжаофывжа
 let mode = "full";
 const output = document.getElementById("output");
 const fullBtn = document.getElementById("full");
